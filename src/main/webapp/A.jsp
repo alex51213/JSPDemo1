@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>客戶查詢</h1>
+        <hr>
     </body>
 </html>
